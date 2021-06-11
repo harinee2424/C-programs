@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main(){
-    int a,b,num,c;
+    int a,b,num,c;    
     c=a+b;
     scanf("%d%d",&a,&b);
     if(num%2==0){
