@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main(){
     int a,b,c;
-    printf("enter a");
+    printf("enter a"); /*biggest of three numbers*/
     scanf("%d",&a);
     printf("enter b");
     scanf("%d",&b);
